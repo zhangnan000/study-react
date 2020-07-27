@@ -32,6 +32,7 @@ export default function createForm(Cmp) {
     }
 
     validateFields = callback => {
+      // !!!!!!!!!!西撒哈拉
       let err = []
       // 校验规则 this.options
       // 校验的值是this.state
